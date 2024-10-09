@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "MR-Rîmøn",
+  "PREFIX": "-",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61552209843370",
+    "100085457504731"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61552209843370",
     ""
   ],
   "OWNER": ["100000959749712"], 
