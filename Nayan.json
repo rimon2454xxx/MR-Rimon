@@ -7,8 +7,8 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "MR-Rîmøn",
-  "PREFIX": "-",
+  "BOTNAME": "MR-Rimon",
+  "PREFIX": "/",
   "OPERATOR": [
     "61552209843370",
     "100085457504731"
